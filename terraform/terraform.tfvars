@@ -1,0 +1,8 @@
+region = "us-east-1"
+customer_name = "four"
+project = "four"
+repository_url = "https://github.com/craffapptest1/default_user_portfolio01010.git"
+branch = "master"
+db_password = "four_password"
+db_username = "postgres"
+db_name = "four_db"
